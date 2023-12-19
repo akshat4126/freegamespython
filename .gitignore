@@ -1,0 +1,23 @@
+# Python byte-code
+*.py[co]
+
+# virutalenv directories
+/env*/
+
+# coverage files
+.coverage
+
+# setup, test and upload directories
+/.cache/
+/.tox/
+/build/
+/dist/
+/docs/_build/
+*.egg-info/
+
+.DS_Store
+
+#Credits to Akshat
+#Insta: @akshat.py
+#E-mail: akshat4126@gmail.com
+#GITHUB: @akshat4126
